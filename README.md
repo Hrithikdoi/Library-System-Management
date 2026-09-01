@@ -10,6 +10,8 @@ This project demonstrates the implementation of a Library Management System usin
 
 The goal is to showcase skills in database design, data manipulation, and SQL querying.
 
+![Library Management System](images/library.png)
+
 ---
 
 ## Objectives
@@ -36,11 +38,7 @@ The Library Management System database contains tables for:
 
 The tables are connected using Primary Keys and Foreign Keys to establish relationships between the different entities.
 
-The Entity Relationship Diagram is included in the project as:
-
-```text
-library_erd.pgerd
-```
+![Library Management System ERD](images/library_erd.png)
 
 ### Database Creation
 
@@ -453,10 +451,6 @@ The folder contains:
 - `issued_status.csv`
 - `members.csv`
 - `return_status.csv`
-
-### `library_erd.pgerd`
-
-Contains the Entity Relationship Diagram for the Library Management System database.
 
 ---
 

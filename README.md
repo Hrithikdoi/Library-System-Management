@@ -10,7 +10,7 @@ This project demonstrates the implementation of a Library Management System usin
 
 The goal is to showcase skills in database design, data manipulation, and SQL querying.
 
-![Library Management System](images/library.png)
+![Library Management System](images/library.jpg)
 
 ---
 
@@ -24,6 +24,7 @@ The goal is to showcase skills in database design, data manipulation, and SQL qu
 ---
 
 ## Project Structure
+![Library Management System ERD](images/library_erd.png)
 
 ### 1. Database Setup
 
@@ -37,8 +38,6 @@ The Library Management System database contains tables for:
 - Return Status
 
 The tables are connected using Primary Keys and Foreign Keys to establish relationships between the different entities.
-
-![Library Management System ERD](images/library_erd.png)
 
 ### Database Creation
 
